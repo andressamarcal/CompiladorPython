@@ -23,7 +23,7 @@ O analisador sintático vê se a estruturação do arquivo é correta e atende a
 
 
 *Comando* 
-> python2 Principal.py [nomedoarquivoteste].txt
+> $ python2 Principal.py teste/[nomedoarquivodeteste].txt
 
 *A saída do programa se resume a apenas duas possibilidades:*
 			
